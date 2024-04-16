@@ -1,4 +1,4 @@
-"# College-management-system" 
+
 ![image](https://github.com/lakshayuppal779/College-management-system/assets/117820155/7d3ed792-a7c8-496b-b2d9-11eb6745dbf9)
 ![image](https://github.com/lakshayuppal779/College-management-system/assets/117820155/089181d6-199b-4040-a515-bedb9f961170)
 ![image](https://github.com/lakshayuppal779/College-management-system/assets/117820155/4630d2eb-1e3f-4950-b338-4399a0540b7e)
