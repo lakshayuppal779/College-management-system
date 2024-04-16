@@ -9,6 +9,7 @@
 ![image](https://github.com/lakshayuppal779/College-management-system/assets/117820155/e04a3a07-3467-4898-bf13-42bf7bb7b9ba)
 ![image](https://github.com/lakshayuppal779/College-management-system/assets/117820155/2fe674e4-1765-411d-9e74-c8b3898cf39f)!
 [image](https://github.com/lakshayuppal779/College-management-system/assets/117820155/34de6b89-2de0-4e51-8a7f-8668b982b400)
+![image](https://github.com/lakshayuppal779/College-management-system/assets/117820155/76ed51e5-34a4-4920-afcf-7617ff9840ae)
 
 ![image](https://github.com/lakshayuppal779/College-management-system/assets/117820155/9a71d6fa-63a5-4594-9e34-7a45d5a4d677)
 ![image](https://github.com/lakshayuppal779/College-management-system/assets/117820155/759c5a35-90fa-4efc-8922-5b08d45c3b5a)
